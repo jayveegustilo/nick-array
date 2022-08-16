@@ -2,7 +2,7 @@
 <body>
 
 <?php
-//$boxes = array("1","2","2","3","4","6","3","1","4","2","8");
+//$boxes = array("1","2","2","3","4","6","3","1","4","2","8"); //your sample
 $boxes = array("1","2","2","3","2","3","4","1","4","2","8"); //for checking
 $boxes_length = count($boxes);
 $k = 5;
